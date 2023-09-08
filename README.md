@@ -19,14 +19,14 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto  
+   git clone https://github.com/LeoTolotti/Shopper_teste_tecnico.git  
 
 Recomendo abrir dois terminais, um para o front-end, e outro para o back-end.
 
 2. Acesse o diretório do projeto front-end:
 
    ```bash
-   cd Shopper/shopper_frontend  
+   cd Shopper_teste_tecnico/shopper_frontend  
  
 3. Instale as dependências do projeto:
 
@@ -36,7 +36,7 @@ Recomendo abrir dois terminais, um para o front-end, e outro para o back-end.
 4. Acesse o diretório do projeto back-end:
 
    ```bash
-   cd Shopper/shopper_backend 
+   cd Shopper_teste_tecnico/shopper_backend 
  
 5. Instale as dependências do projeto:
 
