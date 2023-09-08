@@ -1,0 +1,26 @@
+.carregamento_de_csv {
+  background-color: rebeccapurple;
+}
+.carregamento_de_csv {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100vw;
+  background-color: aliceblue;
+}
+.carregamento_de_arquivo {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5rem;
+}
+.analise_de_dados {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5rem;
+}

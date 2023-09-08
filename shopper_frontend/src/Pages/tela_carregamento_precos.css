@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+.nav_bar_home {
+  color: white;
+  position: sticky;
+  width: 100%;
+  top: 0px;
+  z-index: 10000;
+  background-color: #1e2044;
+  display: block;
+}
+.nav_bar_home_div {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  height: 100px;
+  width: 90%;
+  margin: 0px auto;
+  max-width: 1500px;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.a_logo {
+  cursor: pointer;
+}
+.img_logo {
+  height: auto;
+  width: 140px;
+  border-radius: 0px;
+}
+.img_logo img {
+  max-width: 100%;
+  display: block;
+}
+.componente_nav_bar {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.nav_bar_home_button_duvidas {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  font-family: Lato;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-style: normal;
+  gap: 10px;
+  width: auto;
+  height: 32px;
+  border: none;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+  margin-left: 20px;
+}
+.nav_bar_home_button_login {
+  border: 1px solid #0dab77;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  font-family: Lato;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-style: normal;
+  gap: 10px;
+  width: 162px;
+  height: 32px;
+  border-radius: 6px;
+  background: none;
+  cursor: pointer;
+  margin-left: 20px;
+}
+.nav_bar_home_button_criar_conta {
+  background-color: #0dab77;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  font-family: Lato;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-style: normal;
+  gap: 10px;
+  width: 162px;
+  height: 32px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+.body_tela_carregamento_de_dados {
+  display: flex;
+  flex-direction: row;
+  height: 87vh;
+  width: 100vw;
+  background-color: #0dab77;
+}
