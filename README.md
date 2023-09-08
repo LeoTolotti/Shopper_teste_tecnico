@@ -21,24 +21,24 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
    ```bash
    git clone https://github.com/LeoTolotti/Shopper_teste_tecnico.git  
 
-Recomendo abrir dois terminais, um para o front-end, e outro para o back-end.
+2. Recomendo abrir dois terminais, um para o front-end, e outro para o back-end.
 
-2. Acesse o diretório do projeto front-end:
+3. Acesse o diretório do projeto front-end:
 
    ```bash
    cd Shopper_teste_tecnico/shopper_frontend  
  
-3. Instale as dependências do projeto:
+4. Instale as dependências do projeto:
 
    ```bash
    yarn install 
 
-4. Acesse o diretório do projeto back-end:
+5. Acesse o diretório do projeto back-end:
 
    ```bash
    cd Shopper_teste_tecnico/shopper_backend 
  
-5. Instale as dependências do projeto:
+6. Instale as dependências do projeto:
 
    ```bash
     yarn install  
