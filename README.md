@@ -68,7 +68,7 @@ Se optar por usar segue link para download
  ## Uso
 1. Para iniciar o projeto, execute o seguinte comando em ambos os terminais:
    ```bash
-   yarn install 
+   yarn start 
 ## Autores
 
 - [@LeoTolotti](https://github.com/LeoTolotti)
